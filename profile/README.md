@@ -12,4 +12,7 @@ Official organization of the project.
 
 The names **"Legion of Suck"** and **"Легион Отсоса"**,
 the domain **"пипися.рф"**,
-and all related branding are reserved project assets.
+and all related logos, branding, visual identity,
+and derivative or confusingly similar names
+are reserved project assets
+and are not licensed for use without explicit permission.
